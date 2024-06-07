@@ -6,6 +6,7 @@
     display: block;
     margin-bottom: 8px;
     font-size: 24px;
+    background-color: aquamarine;
 }
 .campo-texto input{
     background-color: #FFF;
